@@ -1,0 +1,8 @@
+Written Report:
+The above analysis looks at the average maths scores, average reading scores, and percentage of students passing maths, reading and both. We look at the those variables overall across the 15 schools, by school, by school and year level, and then by school budget spent per student, school size and school type.
+
+One interesting comparison from the analysis is that the lower spending ranges per student (<%585 and $585-$630), the higher percentage of students passing both maths and reading than the higher spending ranges per student ($630-$645 and $645-$680). This is interesting because it would be assumed that the higher budget invested in studentsÕ education, the more likely they are to attain higher maths and reading scores. 
+
+Another interesting comparison is between the school size and maths and reading overall passing rates. The analysis shows that as the school size (student population) increases, the overall passing rate decreases. A reason for this could be because the more students there are, the less individual focus there is on each student by the teachers to assist with teaching and tutoring them to help achieve higher grades. 
+
+From above comparisons, we can conclude that higher spending on students does not necessarily mean higher scores and/or passing rates, as well as the more students a school has, the lower percentage of students passing both maths and reading.
